@@ -1,0 +1,102 @@
+<style type="text/css">
+#Header{
+　width:360px;
+　height:80px;
+　text-align:center;
+　line-height:80px;
+　font-size:15px;
+　color:black;
+　font-weight:bold;
+　background-color:black;
+}
+
+#Content{
+　width:120px;
+　height:280px;
+  margin-left:250px;
+  margin-right:250px;
+
+　
+　line-height:280px;
+　font-size:15px;
+　color:#f9c81e;
+　font-weight:bold;
+　background-color:black;
+　float:left;
+}
+#Footer{
+　width:360px;
+　height:80px;
+　text-align:center;
+　line-height:80px;
+　font-size:15px;
+　color:#fffaf3;
+　font-weight:bold;
+　background-color:gray;
+}
+
+
+.MENU{
+    width: 900px;
+    height: 40px;
+    background-image: url();
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 120px;    
+}
+
+li{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+li a{
+    display: block;
+    width: 120px;
+    height: 40px;
+    background-image: url();
+    text-decoration: none;
+    color: #000000;
+    text-align: center;
+}
+
+li a:hover{
+    background-image: url();
+    color: #006699;
+}
+
+.nav{
+	background-color: 00FF00;
+	font-family: 標楷體 ;
+	line-height: 16px ;
+	color: #2F4F4F; 
+    list-style-type:circle;
+
+}
+#BOX{
+    width: 300;
+    height:700;
+    margin-left: auto;
+    margin-right: auto;
+}
+#BOX h3{
+    font-size: 15px;
+    line-height: 40px;
+    text-indent:60px;
+    background-repeat: no-repeat;
+    background-color: #077;
+    color:#FFF;
+    margin-left: 5px;
+    margin-right: 4px;
+    border-left: 10px solid #033;
+}
+</style>
